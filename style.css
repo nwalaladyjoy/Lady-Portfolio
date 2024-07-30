@@ -1,0 +1,126 @@
+.daa {
+    height: 500px;
+}
+.prob{
+    color:#FBA835 !important;
+}
+.flow-text{
+    color: white;
+}
+
+.progress .determinate {
+    background-color: #FBA835 !important;
+}
+#home {
+    background-color: #540F0A;
+    height: auto;
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 0px;
+}
+h5{
+    color:#FBA835;
+}
+.head{
+    color:#FBA835 !important;
+}
+
+@media screen and (max-width: 480px) {
+    #about p{
+       text-align: justify !important;
+        hyphens: auto;
+   }
+    .modal-content{
+        text-align: justify !important;
+      hyphens: auto;
+   }
+   }
+   
+    .modal-content{
+       text-align: justify !important;
+       hyphens: auto;
+   }
+   .para{
+    text-align: justify !important;
+     hyphens: auto;
+   }
+   .collapsible-header, .collapsible-body{
+   font-weight: 400;
+   font-size: 19px;
+   }
+   
+   .leave{
+        text-align: justify;
+       hyphens: auto;
+   }
+    .fish, b{
+       font-size: 15px; 
+       font-weight: bold;
+   }
+
+   
+   li>a:hover{
+       color: #FBA835;
+   }
+   div .hoverable{
+       height: 350px !important;
+     }
+   
+   #about p{
+       text-align: justify;
+       hyphens: auto;
+   }
+   
+   #body{
+       font-weight: 400;
+       font-style: normal;
+   }
+   
+   @media (min-width: 1367px) {
+      div .big{
+           padding-top: 200px !important; 
+           
+       }
+       div .big p{
+           font-size: 18px;
+       }
+       .head{
+           font-size: 35px;
+           color:#FBA835;
+       }
+       #about p{
+       text-align: justify;
+        hyphens: auto;
+   } 
+       
+   }
+   
+   @media (max-width: 1366px){
+   
+       .head{
+           font-size: 30px;
+           padding-top: 120px !important; 
+           color:#FBA835;
+           padding-left:65px;
+       }
+       div .big p{
+           font-size: 20px;
+           text-align: center;
+       }
+       .pa{
+        padding-left:60px;
+       }
+   }
+   
+   @media (max-width: 1180px){
+       #home {
+           height: auto;
+       }
+   }
+
+   @media only screen and (min-width: 993px) {
+    .row .col.push-l2 {
+        left:  29.666667%;
+    }
+}
